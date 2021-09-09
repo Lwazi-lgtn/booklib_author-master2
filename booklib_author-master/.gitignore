@@ -1,0 +1,16 @@
+# Maven excludes
+target/
+
+# IntelliJ excludes
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Custom excludes
+/src/test/java/com/caniksea/adp3/practical/booklib/authormodule/JUnitTestSuite.java
+README.md
+
+# Misc
+pom.xml.releaseBackup
+pom.xml.tag
